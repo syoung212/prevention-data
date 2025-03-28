@@ -3,10 +3,10 @@
 # Initialize parameters
 bucket="mimiciii-1.4.physionet.org"
 dataset="mimic3_v1_4"
-schema_local_folder="/Users/pranavigupta/data_to_decisions/prevention-data/schemas_bq"
+schema_local_folder="path"
 
 # Get the list of files in the bucket
-FILES=$(gsutil -u data-project-455021 ls gs://$bucket/*.csv.gz)
+FILES=$(gsutil -u project-name ls gs://$bucket/*.csv.gz)
 
 for file in $FILES
 do
