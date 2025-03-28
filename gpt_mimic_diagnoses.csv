@@ -1,0 +1,191 @@
+SUBJECT_ID,HADM_ID,Prompt,Predicted_Diagnosis
+29350,103877,"
+    Based on the following patient information from the MIMIC-III dataset, suggest the most likely diagnosis or diagnoses:
+
+    Patient Demographics:
+    - Age: Unknown
+    - Gender: M
+
+    Admission Information:
+    - Admission Type: Unknown
+    - Length of Stay: Unknown days
+
+    Medical History:
+    - Total Past Diagnoses: 37.0
+    
+Lab Results:
+- Lab ID 50971.0: 4.3
+
+Please provide the most likely ICD9 diagnosis code(s) and description(s) based on this information. Format your response as 'ICD9: [code] - [description]' for each diagnosis you suggest.","The provided information is insufficient to suggest a specific ICD9 diagnosis code. The patient's age, admission type, length of stay, and specific details about their past diagnoses are unknown. The lab ID 50971.0 corresponds to a blood urea nitrogen (BUN) test, but without reference ranges or additional clinical information, it's not possible to interpret the result of 4.3. Please provide more detailed patient information, including symptoms, medical history, and more specific lab results."
+11236,156425,"
+    Based on the following patient information from the MIMIC-III dataset, suggest the most likely diagnosis or diagnoses:
+
+    Patient Demographics:
+    - Age: Unknown
+    - Gender: F
+
+    Admission Information:
+    - Admission Type: Unknown
+    - Length of Stay: Unknown days
+
+    Medical History:
+    - Total Past Diagnoses: 66.0
+    
+Lab Results:
+- Lab ID 50893.0: 7.2
+
+Please provide the most likely ICD9 diagnosis code(s) and description(s) based on this information. Format your response as 'ICD9: [code] - [description]' for each diagnosis you suggest.","Based on the information provided, it's not possible to provide a specific diagnosis. The patient's age, admission type, and length of stay are unknown. Additionally, the medical history only indicates the number of past diagnoses, not their nature. The lab result provided (Lab ID 50893.0: 7.2) is not associated with a specific test, making it impossible to interpret in a clinical context. More detailed patient information is needed to provide a diagnosis."
+58689,179865,"
+    Based on the following patient information from the MIMIC-III dataset, suggest the most likely diagnosis or diagnoses:
+
+    Patient Demographics:
+    - Age: Unknown
+    - Gender: M
+
+    Admission Information:
+    - Admission Type: Unknown
+    - Length of Stay: Unknown days
+
+    Medical History:
+    - Total Past Diagnoses: 0.0
+    
+Lab Results:
+- Lab ID 51006.0: 20
+
+Please provide the most likely ICD9 diagnosis code(s) and description(s) based on this information. Format your response as 'ICD9: [code] - [description]' for each diagnosis you suggest.","The information provided is insufficient to make a definitive diagnosis. The lab ID 51006.0 corresponds to a blood urea nitrogen (BUN) test, but without a reference range or additional clinical information, it's not possible to interpret the result. Please provide more detailed patient information."
+56854,120290,"
+    Based on the following patient information from the MIMIC-III dataset, suggest the most likely diagnosis or diagnoses:
+
+    Patient Demographics:
+    - Age: Unknown
+    - Gender: M
+
+    Admission Information:
+    - Admission Type: Unknown
+    - Length of Stay: Unknown days
+
+    Medical History:
+    - Total Past Diagnoses: 40.0
+    
+Lab Results:
+- Lab ID 50970.0: 4.2
+
+Please provide the most likely ICD9 diagnosis code(s) and description(s) based on this information. Format your response as 'ICD9: [code] - [description]' for each diagnosis you suggest.","The information provided is insufficient to suggest a specific ICD9 diagnosis code and description. The patient's age, admission type, length of stay, and specific past diagnoses are unknown. The lab ID provided (50970.0) does not correspond to a specific test or result in the commonly used LOINC system. More detailed clinical information, including symptoms, specific lab results, and imaging findings, would be necessary to suggest a diagnosis."
+22888,108592,"
+    Based on the following patient information from the MIMIC-III dataset, suggest the most likely diagnosis or diagnoses:
+
+    Patient Demographics:
+    - Age: Unknown
+    - Gender: M
+
+    Admission Information:
+    - Admission Type: Unknown
+    - Length of Stay: Unknown days
+
+    Medical History:
+    - Total Past Diagnoses: 13.0
+    
+Lab Results:
+- Lab ID 51237.0: 1.6
+
+Please provide the most likely ICD9 diagnosis code(s) and description(s) based on this information. Format your response as 'ICD9: [code] - [description]' for each diagnosis you suggest.","The information provided is insufficient to make a specific diagnosis. The lab ID 51237.0 corresponds to the lab test for Creatinine, and a result of 1.6 is slightly elevated, which could suggest a kidney function issue. However, without additional information such as symptoms, medical history details, and other lab results, it's not possible to provide a specific ICD9 diagnosis code and description. 
+
+If more information becomes available, please provide it so a more accurate diagnosis can be made."
+59085,115300,"
+    Based on the following patient information from the MIMIC-III dataset, suggest the most likely diagnosis or diagnoses:
+
+    Patient Demographics:
+    - Age: Unknown
+    - Gender: M
+
+    Admission Information:
+    - Admission Type: Unknown
+    - Length of Stay: Unknown days
+
+    Medical History:
+    - Total Past Diagnoses: 34.0
+    
+Lab Results:
+- Lab ID 50912.0: 2.8
+
+Please provide the most likely ICD9 diagnosis code(s) and description(s) based on this information. Format your response as 'ICD9: [code] - [description]' for each diagnosis you suggest.","The information provided is insufficient to suggest a specific diagnosis. The lab ID 50912.0 corresponds to creatinine level, and a value of 2.8 is higher than normal, indicating possible kidney dysfunction. However, without further information such as symptoms, other lab results, or medical history details, it's not possible to provide a specific ICD9 diagnosis code. Please provide more detailed information."
+87880,176814,"
+    Based on the following patient information from the MIMIC-III dataset, suggest the most likely diagnosis or diagnoses:
+
+    Patient Demographics:
+    - Age: Unknown
+    - Gender: F
+
+    Admission Information:
+    - Admission Type: Unknown
+    - Length of Stay: Unknown days
+
+    Medical History:
+    - Total Past Diagnoses: 26.0
+    
+Lab Results:
+- Lab ID 50902.0: 108
+
+Please provide the most likely ICD9 diagnosis code(s) and description(s) based on this information. Format your response as 'ICD9: [code] - [description]' for each diagnosis you suggest.","The information provided is not sufficient to make a specific diagnosis. The only available lab result (Lab ID 50902.0) corresponds to a creatinine test, and a value of 108 is significantly high, suggesting kidney dysfunction. However, without more detailed information about the patient's symptoms, medical history, and other lab results, it's not possible to provide a specific ICD9 code or diagnosis. 
+
+If more information becomes available, please provide it so a more accurate diagnosis can be made."
+50404,110630,"
+    Based on the following patient information from the MIMIC-III dataset, suggest the most likely diagnosis or diagnoses:
+
+    Patient Demographics:
+    - Age: Unknown
+    - Gender: M
+
+    Admission Information:
+    - Admission Type: Unknown
+    - Length of Stay: Unknown days
+
+    Medical History:
+    - Total Past Diagnoses: 0.0
+    
+Lab Results:
+- Lab ID 51006.0: 16
+
+Please provide the most likely ICD9 diagnosis code(s) and description(s) based on this information. Format your response as 'ICD9: [code] - [description]' for each diagnosis you suggest.","The provided information is insufficient to make a specific diagnosis. The lab ID 51006.0 corresponds to the lab test for Hematocrit, but the result of 16 is significantly low, indicating anemia. However, without additional information such as symptoms, other lab results, and patient history, it's not possible to determine the exact type of anemia or any other potential diagnoses.
+
+Based on the limited information, a potential diagnosis could be:
+
+ICD9: 285.9 - Anemia, unspecified"
+44326,124955,"
+    Based on the following patient information from the MIMIC-III dataset, suggest the most likely diagnosis or diagnoses:
+
+    Patient Demographics:
+    - Age: Unknown
+    - Gender: F
+
+    Admission Information:
+    - Admission Type: Unknown
+    - Length of Stay: Unknown days
+
+    Medical History:
+    - Total Past Diagnoses: 16.0
+    
+Lab Results:
+- Lab ID 51274.0: 78.9
+
+Please provide the most likely ICD9 diagnosis code(s) and description(s) based on this information. Format your response as 'ICD9: [code] - [description]' for each diagnosis you suggest.","Based on the information provided, it's challenging to provide a specific diagnosis. The lab ID 51274.0 corresponds to the lab test for 'Serum Glucose' and the value 78.9 is within the normal range (70-100 mg/dL). Without more specific symptoms, lab results, or medical history, it's not possible to provide an accurate ICD9 diagnosis code and description. 
+
+Please provide more detailed information about the patient's symptoms, medical history, or other lab results."
+92202,181232,"
+    Based on the following patient information from the MIMIC-III dataset, suggest the most likely diagnosis or diagnoses:
+
+    Patient Demographics:
+    - Age: Unknown
+    - Gender: M
+
+    Admission Information:
+    - Admission Type: Unknown
+    - Length of Stay: Unknown days
+
+    Medical History:
+    - Total Past Diagnoses: 0.0
+    
+Lab Results:
+- Lab ID 50893.0: 9.1
+
+Please provide the most likely ICD9 diagnosis code(s) and description(s) based on this information. Format your response as 'ICD9: [code] - [description]' for each diagnosis you suggest.","The provided information is insufficient to provide a diagnosis. The lab ID 50893.0 corresponds to a creatinine test, and a value of 9.1 is significantly high, indicating kidney dysfunction. However, without additional information such as symptoms, medical history, or other lab results, it's not possible to determine a specific diagnosis. Please provide more detailed information."
