@@ -1,1 +1,4 @@
 upload_MIMIC3_v1_4.sh
+new_patient_notes.csv
+new_ground_truth.csv
+new_primary_diagnosis.csv

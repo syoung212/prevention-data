@@ -6,7 +6,7 @@ dataset="mimic3_v1_4"
 schema_local_folder="/home/user/cs6386/schemas_bq"
 
 # Get the list of files in the bucket
-FILES=$(gsutil -u exp-dl-sy398 ls gs://$bucket/*.csv.gz)
+FILES=$(gsutil -u data-project-455021 ls gs://$bucket/*.csv.gz)
 
 for file in $FILES
 do
